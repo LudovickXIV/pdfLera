@@ -1,0 +1,24 @@
+#PRODUCTS .container {
+    grid-template-columns: 80px 1fr;
+    white-space: nowrap;
+}
+
+#PRODUCTS .chooseBlock {
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+#PRODUCTS .cardsBlock {
+    grid-gap: 20px 35px;
+    font-size: 10px;
+}
+
+#PRODUCTS .cardsBlock img {
+    width: 150px;
+    height: auto;
+}
+
+#PRODUCTS .cardsBlock ft9 {
+    font: 6px 'Arial';
+    line-height: 6px;
+}

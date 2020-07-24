@@ -1,0 +1,59 @@
+#INTERNET_SERVICES .checkbox+label::before {
+    width: 10px;
+    height: 10px;
+}
+
+#INTERNET_SERVICES .ft2 {
+    font: 11px 'Arial';
+    line-height: 14px;
+}
+
+#INTERNET_SERVICES .ft4 {
+    font: 16px 'Arial';
+    line-height: 18px;
+}
+
+#INTERNET_SERVICES .p5 {
+    white-space: nowrap;
+}
+
+#INTERNET_SERVICES .p9 {
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+#INTERNET_SERVICES .td12 {
+    width: 366px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICES .td13 {
+    width: 50px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICES .td14 {
+    width: 302px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICES .td15 {
+    border-bottom: #000000 1px solid;
+    width: 302px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICES .tr7 {
+    height: 24px;
+}
+
+#INTERNET_SERVICES .tr8 {
+    height: 22px;
+}
+
+#INTERNET_SERVICES .t2 {
+    width: 100%;
+    font: 11px 'Arial';
+}

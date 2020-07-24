@@ -1,0 +1,93 @@
+#INTERNET_SERVICE_SWISS_VERSION .checkbox+label::before {
+    width: 10px;
+    height: 10px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft3 {
+    font: 12px 'Arial';
+    line-height: 15px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft4 {
+    font: 11px 'Arial';
+    line-height: 14px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft5 {
+    font: 11px 'Arial';
+    line-height: 12px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft6 {
+    font: 16px 'Arial';
+    line-height: 18px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft7 {
+    font: 16px 'Arial';
+    line-height: 18px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft10 {
+    font: 9px 'Arial';
+    color: #fc0011;
+    line-height: 12px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft14 {
+    font: 1px 'Arial';
+    line-height: 3px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .ft15 {
+    font: 1px 'Arial';
+    line-height: 2px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .p4 {
+    white-space: nowrap;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .td10 {
+    width: 18px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .td11 {
+    width: 90px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .td12 {
+    width: 641px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .td13 {
+    border-bottom: #000000 1px solid;
+    width: 641px;
+    vertical-align: bottom;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .tr1 {
+    height: 21px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .tr6 {
+    height: 29px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .tr12 {
+    height: 23px;
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .t2 {
+    width: 100%;
+    font: 9px 'Arial';
+}
+
+#INTERNET_SERVICE_SWISS_VERSION .t3 {
+    width: 100%;
+    font: 9px 'Arial';
+}
+

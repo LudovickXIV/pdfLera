@@ -1,0 +1,102 @@
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .checkbox+label::before {
+    width: 10px;
+    height: 10px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER label {
+    font-size: 12px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .checkboxBlock {
+    line-height: 12px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER table {
+    margin-top: 33px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .ft1 {
+    font: 12px 'Arial';
+    line-height: 15px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .ft12 {
+    font: 1px 'Arial';
+    line-height: 1px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .ft16 {
+    font: 16px 'Arial';
+    line-height: 18px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .ft23 {
+    font: 9px 'Arial';
+    color: #fc0011;
+    line-height: 12px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .p2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .p16 {
+    padding-left: 1px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .p17 {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .p23 {
+    padding-left: 1px;
+    margin-top: 6px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .td39 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 291px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .td40 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 219px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .td41 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 208px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .tr1 {
+    height: 25px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .tr6 {
+    height: 26px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .tr15 {
+    height: 17px;
+}
+
+#IDENTIFICATION_OF_THE_BENEFICIAL_OWNER .t6 {
+    margin-left: 1px;
+    margin-top: 7px;
+    font: 12px 'Arial';
+}
+

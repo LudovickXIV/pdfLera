@@ -1,0 +1,58 @@
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .ft1 {
+    font: 16px 'Arial';
+    line-height: 21px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .ft3 {
+    font: 12px 'Arial';
+    line-height: 15px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .ft21 {
+    font: 16px 'Arial';
+    margin-left: 6px;
+    line-height: 21px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .p4 {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .p28 {
+    margin-top: 13px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .p27 {
+    text-align: left;
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .td20 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 336px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .td21 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 382px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .tr0 {
+    height: 17px;
+}
+
+#IDENTIFICATION_TRANSMITTING_INSTITUTION .t4 {
+    width: 100%;
+    margin-top: 15px;
+    font: 12px 'Arial';
+}

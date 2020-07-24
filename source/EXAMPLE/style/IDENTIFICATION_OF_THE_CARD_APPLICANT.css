@@ -1,0 +1,114 @@
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .ft2 {
+    font: 16px 'Arial';
+    line-height: 18px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .ft3 {
+    font: 12px 'Arial';
+    line-height: 15px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .ft4 {
+    font: 9px 'Arial';
+    color: #fc0011;
+    line-height: 12px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .ft5 {
+    font: 1px 'Arial';
+    line-height: 1px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .p4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .p5 {
+    padding-left: 1px;
+    margin-top: 18px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .p6 {
+    padding-left: 1px;
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .p7 {
+    padding-left: 1px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .p8 {
+    padding-left: 220px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td2 {
+    padding: 0px;
+    margin: 0px;
+    width: 93px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td3 {
+    padding: 0px;
+    margin: 0px;
+    width: 46px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td4 {
+    padding: 0px;
+    margin: 0px;
+    width: 579px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td5 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 93px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td6 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 46px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .td7 {
+    border-bottom: #000000 1px solid;
+    padding: 0px;
+    margin: 0px;
+    width: 579px;
+    vertical-align: bottom;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .tr1 {
+    height: 25px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .tr2 {
+    height: 27px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .tr3 {
+    height: 26px;
+}
+
+#IDENTIFICATION_OF_THE_CARD_APPLICANT .t1 {
+    width: 100%;
+    margin-top: 7px;
+    font: 12px 'Arial';
+}
